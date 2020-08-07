@@ -1,0 +1,31 @@
+﻿  Button.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\Sprite.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CollisionManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\CollisionManager.h(6,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DebugManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\DebugManager.h(6,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Engine.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\Engine.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  EventManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\EventManager.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  FontManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\FontManager.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Label.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\Engine.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\Engine.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MathManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\MathManager.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PlatformEnemy.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\Sprite.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PlatformPlayer.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\Sprite.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SoundManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\SoundManager.h(8,10): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  StateManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\States.h(6,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  States.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\States.h(6,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+C:\Users\nestor santiago\Desktop\GAME1017_A2_Shah1Plata2\GameProduction 2\TextureManager.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
